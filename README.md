@@ -1,3 +1,4 @@
-#Hello, world! 
+#Hello, world!
 I study in Netology
-10.06.23
+Дата рождения 10.06.23
+lll
